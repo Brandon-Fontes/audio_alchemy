@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/Brandon-Fontes/audio_alchemy#readme",
   "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.8",
+    "mongoose": "^5.12.11",
     "node": "^16.1.0"
   }
 }
